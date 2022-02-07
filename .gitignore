@@ -1,11 +1,12 @@
 .DS_Store
 .vscode
 .idea
-
-*.pkl
 *.out
-data/porto
+
+outs/
 runs/
+models/wts/
+#################
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
